@@ -8,3 +8,5 @@ data : 08 de abril de 2026.
 
 1) iniciei o curso de Ads porquê quero codar, aprender novas tecnologias!
 2) ainda não to trabalhando diretamente na área.
+
+3) linha adicionada diretamente no site !
